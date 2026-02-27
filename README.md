@@ -1,9 +1,8 @@
 <h1 align="center">Hey I'm Shreyasi Dutta</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=CSE+Student;Frontend+Developer;DSA+Practitioner;Future+Software+Engineer;Consistency+Over+Motivation+🚀&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Frontend+Developer;Learning+DSA&center=true&width=500&height=45">
 </p>
-
 ---
 
 ## 🧭 My Journey
