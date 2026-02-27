@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Frontend+Developer;Learning+DSA&center=true&width=500&height=45">
 </p>
----
 
 ## 🧭 My Journey
 
@@ -49,8 +48,6 @@
 </p>
 
 ---
-
-## 🧠 Philosophy in Code
 
 ```javascript
 while(alive){
