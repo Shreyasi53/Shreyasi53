@@ -1,4 +1,4 @@
-<h1 align="center">Shreyasi Dutta 👩‍💻</h1>
+<h1 align="center">Hey I'm Shreyasi Dutta</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=CSE+Student;Frontend+Developer;DSA+Practitioner;Future+Software+Engineer;Consistency+Over+Motivation+🚀&center=true&width=500&height=45">
@@ -17,18 +17,12 @@
 
 ---
 
-## ⚙️ Technical Toolkit
-
-### 💻 Programming
+## ⚙️ Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
-
-### 🌐 Web
-<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
