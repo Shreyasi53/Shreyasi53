@@ -38,25 +38,19 @@ I believe in learning deeply, not just learning fast.
 ✔ Improving DSA problem-solving skills  
 ✔ Building responsive React projects  
 ✔ Strengthening core programming concepts  
-✔ Preparing for technical interviews  
-
----
-
-## 🎯 Long Term Vision
-
-• Become a strong Software Engineer  
-• Build scalable and meaningful applications  
-• Continuously improve communication & technical depth  
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreyasi53&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyasi53&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Shreyasi53&theme=tokyonight" height="165"/>
+</p>
 ---
 
 ## 💡 Developer Thought
