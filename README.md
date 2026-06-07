@@ -1,20 +1,14 @@
-<h1 align="center">Hey I'm Shreyasi Dutta</h1>
+# Hey, I'm Shreyasi
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer+in+Progress;React+%2B+Tailwind+Developer;Learning+Backend+Development;Consistently+Practicing+DSA&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=24">
-</p>
+### About Me
 
-## About me
-
-🎓 B.Tech Computer Science Engineering Student  
-💻 Building responsive web applications using React & Tailwind CSS  
-📚 Consistently practicing Data Structures & Algorithms  
-⚙️ Currently learning Backend Development with Node.js & Express.js  
-🚀 Interested in Full Stack Development & Software Engineering  
+- B.Tech Computer Science Engineering Student
+- Building responsive web applications using React & Tailwind CSS
+- Consistently practicing Data Structures & Algorithms
+- Currently learning Backend Development with Node.js & Express.js
+- Interested in Full Stack Development & Software Engineering
 
 > Learning with consistency, building with purpose.
-
----
 
 ## 💻 Tech Stack
 
@@ -30,8 +24,6 @@
   <img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
-
----
 
 ## 🛠️ Tools & Platforms
 
