@@ -1,5 +1,3 @@
-# Hey, I'm Shreyasi
-
 ### About Me
 
 - B.Tech Computer Science Engineering Student
@@ -38,11 +36,3 @@
 </p>
 
 ---
-
-```javascript
-while(alive){
-    learn();
-    practice();
-    build();
-    improve();
-}
