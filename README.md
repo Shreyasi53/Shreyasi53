@@ -32,5 +32,3 @@
   <img src="https://img.shields.io/badge/MongoDB_Atlas-518B68?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-478F91?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
-
----
