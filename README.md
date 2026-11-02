@@ -31,4 +31,6 @@
   <img src="https://img.shields.io/badge/Postman-CB7955?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB_Atlas-518B68?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-478F91?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-555555?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
 </p>
