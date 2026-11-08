@@ -1,3 +1,8 @@
+<h2>
+  Hi, I'm Shreyasi!
+  <img src="./assets/gitcat.webp" width="50" />
+</h2>
+
 ### About Me
 
 - B.Tech CSE undergraduate
